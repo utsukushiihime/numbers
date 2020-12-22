@@ -1,5 +1,20 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## An API for interesting facts about numbers. Provides trivia, math, date, and year facts about numbers.
+
+---
+
+## User Stories
+
+    User should be able to click on button for each action:
+    Click on button to get date fact.
+    Click on button to get math fact.
+    Click on button to get random fact.
+    Click on button to get trivia fact.
+    Click on button to get year fact.
+
+---
+
 ## Getting Started
 
 First, run the development server:
